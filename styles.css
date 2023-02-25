@@ -1,0 +1,29 @@
+#paragraph1 {
+    text-align:center;
+  }
+  .myUL {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  .tribute-info {
+    text-align:center;
+  }
+  
+  #title {
+    text-align:center;
+  
+  }
+  
+  #title2 {
+    text-align:center;
+  }
+  
+  .header {
+    background-color:lightgray;
+  
+  }
+  
+  #img-div{
+    background-color:white;
+  }
